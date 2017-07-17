@@ -1,0 +1,6 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\bin\Debug\Array test.exe.config
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\bin\Debug\Array test.exe
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\bin\Debug\Array test.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\obj\Debug\Array test.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\obj\Debug\Array test.exe
+c:\users\shonen1561\documents\visual studio 2017\Projects\Array test\Array test\obj\Debug\Array test.pdb
